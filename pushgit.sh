@@ -13,4 +13,4 @@ sudo git remote rm origin
 sudo git remote -v
 
 sudo git remote add origin git@github.com:hGhostD/MemosBackup.git
-sudo git push origin 
+sudo git push --set-upstream origin main
